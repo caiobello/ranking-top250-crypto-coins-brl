@@ -1,4 +1,4 @@
-## Ranking das Top 250 Criptomoedas em relação ao Real Brasileiro
+## Ranking das Top 250 Criptomoedas em relação ao Real brasileiro
 >Este é um programa em Java que exibe o ranking das 250 principais criptomoedas em relação ao real brasileiro. O programa utiliza a API pública Coingecko para obter os dados das criptomoedas e os exibe em uma tabela na interface gráfica do usuário.
 
 ### Como funciona
